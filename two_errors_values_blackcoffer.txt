@@ -1,0 +1,2 @@
+Error extracting data from https://insights.blackcoffer.com/how-neural-networks-can-be-applied-in-various-areas-in-the-future/: 404 Client Error: Not Found for url: https://insights.blackcoffer.com/how-neural-networks-can-be-applied-in-various-areas-in-the-future/
+Error extracting data from https://insights.blackcoffer.com/covid-19-environmental-impact-for-the-future/: 404 Client Error: Not Found for url: https://insights.blackcoffer.com/covid-19-environmental-impact-for-the-future/
